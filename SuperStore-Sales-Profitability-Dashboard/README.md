@@ -26,21 +26,20 @@ The project includes:
 - Profit by sub-category analysis
 - Monthly sales trends
 - Discount vs Profit relationship analysis
-  
+
 ## Dashboard Screenshots
 
 ### Main Dashboard
-![](SuperStore-Sales-Profitability-Dashboard/Screenshot%20folder/dashboard_main.png)
+![](SuperStore-Sales-Profitability-Dashboard/SuperStore-Sales-Profitability-Dashboard/Screenshot%20folder/dashboard_main.png)
 
 ### Dashboard Charts
-![](SuperStore-Sales-Profitability-Dashboard/Screenshot%20folder/dashboard_charts.png)
+![](SuperStore-Sales-Profitability-Dashboard/SuperStore-Sales-Profitability-Dashboard/Screenshot%20folder/dashboard_charts.png)
 
 ### Dashboard Trends
-![](SuperStore-Sales-Profitability-Dashboard/Screenshot%20folder/dashboard_trends.png)
+![](SuperStore-Sales-Profitability-Dashboard/SuperStore-Sales-Profitability-Dashboard/Screenshot%20folder/dashboard_trends.png)
 
 ### Heatmap Analysis
-![](SuperStore-Sales-Profitability-Dashboard/Screenshot%20folder/jupyter_heatmap.png)
-
+![](SuperStore-Sales-Profitability-Dashboard/SuperStore-Sales-Profitability-Dashboard/Screenshot%20folder/jupyter_heatmap.png)
 
 ## Project Structure
 
