@@ -30,7 +30,7 @@ The project includes:
 ## Dashboard Screenshots
 
 ### Main Dashboard
-![Dashboard](screenshots/dashboard_main.png)
+![Dashboard](SuperStore-Sales-Profitability-Dashboard/Screenshots/dashboard_main.png)
 
 ### Dashboard Filters
 ![Filters](screenshots/dashboard_filters.png)
