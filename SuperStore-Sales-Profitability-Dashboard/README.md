@@ -30,13 +30,16 @@ The project includes:
 ## Dashboard Screenshots
 
 ### Main Dashboard
-![Dashboard](screenshots/dashboard_main.png)
+![](Screenshots/dashboard_main.png)
 
-### Dashboard Filters
-![Filters](screenshots/dashboard_filters.png)
+### Dashboard Charts
+![](Screenshots/dashboard_charts.png)
 
-### Monthly Trends
-![Trends](screenshots/dashboard_trends.png)
+### Dashboard Trends
+![](Screenshots/dashboard_trends.png)
+
+### Heatmap Analysis
+![](Screenshots/jupyter_heatmap.png)
 
 ## Project Structure
 
