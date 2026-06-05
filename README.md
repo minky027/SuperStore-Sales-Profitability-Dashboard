@@ -30,16 +30,16 @@ The project includes:
 ## Dashboard Screenshots
 
 ### Main Dashboard
-![](Screenshots/dashboard_main.png)
+![](SuperStore-Sales-Profitability-Dashboard/Screenshots/dashboard_main.png)
 
 ### Dashboard Charts
-![](Screenshots/dashboard_charts.png)
+![](SuperStore-Sales-Profitability-Dashboard/Screenshots/dashboard_charts.png)
 
 ### Dashboard Trends
-![](Screenshots/dashboard_trends.png)
+![](SuperStore-Sales-Profitability-Dashboard/Screenshots/dashboard_trends.png)
 
 ### Heatmap Analysis
-![](Screenshots/jupyter_heatmap.png)
+![](SuperStore-Sales-Profitability-Dashboard/Screenshots/jupyter_heatmap.png)
 
 ## Project Structure
 
